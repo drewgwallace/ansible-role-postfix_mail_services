@@ -1,7 +1,7 @@
+---
 # Purpose: Install Postfix package and dependencies
 # Last Updated: 2018.06.11
 # Notes:
----
 
 
 # roles/postfix/tasks/postfix_install.yml: Installation 'postfix' role. Called by main.yml

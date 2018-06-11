@@ -1,8 +1,9 @@
+---
 # Purpose: Debian specific variables
 # Last Updated: 2018.06.11
 # Notes:
----
-# roles/postfix/vars/Ubuntu.yml
+
+
 postfix_package: postfix
 
 postfix_service: postfix
