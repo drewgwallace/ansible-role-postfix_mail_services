@@ -1,3 +1,6 @@
+# Purpose: Default postfix variables
+# Last Updated: 2018.06.11
+# Notes:
 ---
 server_type: yes
 postfix_slave: False

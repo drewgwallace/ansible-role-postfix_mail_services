@@ -1,4 +1,8 @@
+# Purpose: Configure Postfix slave (null client)
+# Last Updated: 2018.06.11
+# Notes:
 ---
+
 
 - name: Regenerate /etc/postfix/main.cf slave file
   template:
